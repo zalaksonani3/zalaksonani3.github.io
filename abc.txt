@@ -1,24 +1,10 @@
 {
 	"data": [{
-		"adstatus": "1",
-		"admob_adstatus": "0",
+		"admob_ad_show": "yes",
 		"ADMOB_APPID": "",
 		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
 		"ADMOB_I": "ca-app-pub-3940256099942544/1033173712",
 		"ADMOB_N": "ca-app-pub-3940256099942544/2247696110",
-		"ADMOB_B": "ca-app-pub-3940256099942544/6300978111",
-		"app_Backad": "yes",
-		"screen1": "0",
-		"screen2": "0",
-		"screen3": "1",
-		"exitscreen": "1",
-		"exitdialog": "1",
-		"privacyalltime": "1",
-		"needinternet": "1",
-		"app_dialogBeforeAdShow": "1",
-		"data_access": "0",
-		"base_url": "https://d2isj403unfbyl.cloudfront.net",
-		"update_dialog": "1",
-		"update_linkurl": "aqt"
+		"ADMOB_B": "ca-app-pub-3940256099942544/6300978111"
 	}]
 }
