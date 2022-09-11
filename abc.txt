@@ -1,10 +1,8 @@
 {
-	"data": [{
-		"admob_ad_show": "yes",
-		"ADMOB_APPID": "",
-		"ADMOB_APPOPEN": "ca-app-pub-3940256099942544/3419835294",
-		"ADMOB_I": "ca-app-pub-3940256099942544/1033173712",
-		"ADMOB_N": "ca-app-pub-3940256099942544/2247696110",
-		"ADMOB_B": "ca-app-pub-3940256099942544/6300978111"
-	}]
+  "admob_ad_show": "yes",
+  "time": 30000,
+  "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111"
 }
