@@ -1,0 +1,13 @@
+ {
+    "admob_ad_show": "yes",
+    "admob_app_open": "/21753324030,22723853531/com.simple.gallery.photos.videos_AppOpen",
+    "admob_banner": "/21753324030,22723853531/com.simple.gallery.photos.videos_Banner",
+    "admob_interstitial": "/21753324030,22723853531/com.simple.gallery.photos.videos_Interstitial",
+    "admob_native": "/21753324030,22723853531/com.simple.gallery.photos.videos_Native",
+    "admob_time": 35000,
+    "applovin_ad_show": "no",
+    "applovin_banner": "b4cdb3c7fc02c305",
+    "applovin_interstitial": "55a122766634b628",
+    "applovin_native": "572d482aadc81b78",
+    "applovin_time": 30000
+  }
