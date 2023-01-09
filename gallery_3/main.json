@@ -1,0 +1,13 @@
+{
+  "adex_ad_show": "yes",
+  "adex_interval": 35000,
+  "adex_app_open": "/21753324030,22830454629/com.imagecompressor.resizer_AppOpen",
+  "adex_banner": "/21753324030,22830454629/com.imagecompressor.resizer_Banner",
+  "adex_interstitial": "/21753324030,22830454629/com.imagecompressor.resizer_Interstitial",
+  "adex_native": "/21753324030,22830454629/com.imagecompressor.resizer_Native",
+  "applovin_ad_show": "no",
+  "applovin_banner": "b4cdb3c7fc02c305",
+  "applovin_interstitial": "55a122766634b628",
+  "applovin_native": "572d482aadc81b78",
+  "applovin_interval": 30000
+}
