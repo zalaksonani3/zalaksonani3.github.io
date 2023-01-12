@@ -1,5 +1,5 @@
 {
-  "google_ad_show": "no",
+  "google_ad_show": "yes",
   "google_interval": 35000,
   "admob_app_open": "a-app-pub-4261787134652643/9590137336",
   "admob_banner": "/21753324030,22723853531/com.simple.gallery.photos.videos_Banner",
@@ -9,7 +9,7 @@
   "adex_banner": "/21753324030,22723853531/com.simple.gallery.photos.videos_Banner",
   "adex_interstitial": "/21753324030,22723853531/com.simple.gallery.photos.videos_Interstitial",
   "adex_native": "/21753324030,22723853531/com.simple.gallery.photos.videos_Native",
-  "applovin_ad_show": "yes",
+  "applovin_ad_show": "no",
   "applovin_banner": "b4cdb3c7fc02c305",
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
