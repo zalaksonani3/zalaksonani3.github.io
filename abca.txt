@@ -19,6 +19,7 @@
 		"data_access": "0",
 		"base_url": "https://d2isj403unfbyl.cloudfront.net",
 		"update_dialog": "1",
-		"update_linkurl": "aqt"
+		"update_linkurl": "aqt",
+		"demo": "demo"
 	}]
 }
