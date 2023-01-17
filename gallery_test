@@ -9,5 +9,6 @@
     "applovin_banner": "b4cdb3c7fc02c305",
     "applovin_interstitial": "55a122766634b628",
     "applovin_native": "572d482aadc81b78",
-    "applovin_time": 30000
+    "applovin_time": 30000,
+    "demo": "demo"
   }
