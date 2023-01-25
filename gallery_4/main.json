@@ -1,7 +1,7 @@
 {
   "adex_ad_show": "yes",
   "adex_interval": 35000,
-  "adex_app_open": "/21753324030,22830454629/com.simple.gallery.photos.videos1_AppOpen",
+  "adex_app_open": "/21753324030,22830454629/com.simple.gallery.photos.videos_AppOpen",
   "adex_banner": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Banner",
   "adex_interstitial": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Interstitial",
   "adex_native": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Native",
