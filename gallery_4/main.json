@@ -1,11 +1,11 @@
 {
-  "adex_ad_show": "yes",
+  "adex_ad_show": "no",
   "adex_interval": 35000,
   "adex_app_open": "/21753324030,22830454629/com.simple.gallery.photos.videos1_AppOpen",
   "adex_banner": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Banner",
   "adex_interstitial": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Interstitial",
   "adex_native": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Native",
-  "applovin_ad_show": "no",
+  "applovin_ad_show": "yes",
   "applovin_banner": "b4cdb3c7fc02c305",
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
