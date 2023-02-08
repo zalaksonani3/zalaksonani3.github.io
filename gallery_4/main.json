@@ -1,11 +1,11 @@
 {
-  "adex_ad_show": "yes",
+  "adex_ad_show": "no",
   "adex_interval": 35000,
   "adex_app_open": "ca-app-pub-4261787134652643/9590137336",
   "adex_banner": "ca-app-pub-4261787134652643/6463364829",
   "adex_interstitial": "ca-app-pub-4261787134652643/1903219003",
   "adex_native": "ca-app-pub-4261787134652643/3613840201",
-  "applovin_ad_show": "no",
+  "applovin_ad_show": "yes",
   "applovin_banner": "b4cdb3c7fc02c305",
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
