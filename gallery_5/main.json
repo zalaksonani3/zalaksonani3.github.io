@@ -1,0 +1,18 @@
+{
+  "adex_ad_show": "yes",
+  "adex_interval": 35000,
+  "adex_app_open": "/22387492205,22868405240/com.simple.gallery.photos.videos.AppOpen0.1675667153",
+  "adex_banner": "/22387492205,22868405240/com.simple.gallery.photos.videos.Banner0.1675667101",
+  "adex_interstitial": "/22387492205,22868405240/com.simple.gallery.photos.videos.Interstitial0.1675667129",
+  "adex_native": "/22387492205,22868405240/com.simple.gallery.photos.videos.Native0.1675667191",
+  "applovin_ad_show": "no",
+  "applovin_banner": "b4cdb3c7fc02c305",
+  "applovin_interstitial": "55a122766634b628",
+  "applovin_native": "572d482aadc81b78",
+  "applovin_interval": 35000,
+  "fb_ad_show": "no",
+  "fb_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+  "fb_interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fb_native": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
+  "fb_interval": 35000
+}

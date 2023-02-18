@@ -1,0 +1,18 @@
+{
+  "adex_ad_show": "yes",
+  "adex_interval": 35000,
+  "adex_app_open": "ca-app-pub-3940256099942544/3419835294",
+  "adex_banner": "ca-app-pub-3940256099942544/6300978111",
+  "adex_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "adex_native": "ca-app-pub-3940256099942544/2247696110",
+  "applovin_ad_show": "no",
+  "applovin_banner": "b4cdb3c7fc02c305",
+  "applovin_interstitial": "55a122766634b628",
+  "applovin_native": "572d482aadc81b78",
+  "applovin_interval": 30000,
+  "fb_ad_show": "no",
+  "fb_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+  "fb_interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fb_native": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
+  "fb_interval": 35000
+}
