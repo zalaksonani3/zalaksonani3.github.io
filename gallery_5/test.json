@@ -1,5 +1,5 @@
 {
-  "adex_ad_show": "yes",
+  "adex_ad_show": "no",
   "adex_interval": 35000,
   "adex_app_open": "ca-app-pub-3940256099942544/3419835294",
   "adex_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -10,7 +10,7 @@
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
   "applovin_interval": 30000,
-  "fb_ad_show": "no",
+  "fb_ad_show": "yes",
   "fb_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
   "fb_interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fb_native": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
