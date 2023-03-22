@@ -1,11 +1,11 @@
 {
-  "adex_ad_show": "no",
+  "adex_ad_show": "yes",
   "adex_interval": 35000,
   "adex_app_open": "/7047,22813600243/apl/adsvictoryapl/gallerysimple/appopen",
   "adex_banner": "/7047,22813600243/apl/adsvictoryapl/gallerysimple/bannerinapp",
   "adex_interstitial": "/7047,22813600243/apl/adsvictoryapl/gallerysimple/interstitialinapp",
   "adex_native": "/7047,22813600243/apl/adsvictoryapl/gallerysimple/nativeinapp",
-  "applovin_ad_show": "yes",
+  "applovin_ad_show": "no",
   "applovin_banner": "b4cdb3c7fc02c305",
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
