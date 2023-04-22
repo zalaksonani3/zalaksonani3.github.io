@@ -16,7 +16,7 @@
   "fb_native": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
   "fb_interval": 35000,
   "adpumb_ad_show": "yes",
-  "adpumb_interval": 35,
+  "adpumb_interval": 5,
   "adpumb_app_open": "app_open",
   "adpumb_banner": "banner",
   "adpumb_interstitial": "interstitial",
