@@ -20,5 +20,6 @@
   "adpumb_app_open": "app_open",
   "adpumb_banner": "banner",
   "adpumb_interstitial": "interstitial",
-  "adpumb_native": "native"
+  "adpumb_native": "native",
+  "adpumb_banner_interval": 20
 }
