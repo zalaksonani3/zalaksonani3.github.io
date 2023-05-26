@@ -9,7 +9,7 @@
   "applovin_banner": "b4cdb3c7fc02c305",
   "applovin_interstitial": "55a122766634b628",
   "applovin_native": "572d482aadc81b78",
-  "applovin_interval": 120000,
+  "applovin_interval": 180000,
   "fb_ad_show": "no",
   "fb_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
   "fb_interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
