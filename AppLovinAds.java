@@ -22,6 +22,32 @@ import com.applovin.mediation.nativeAds.MaxNativeAdView;
 import com.applovin.mediation.nativeAds.MaxNativeAdViewBinder;
 import com.simple.gallery.photos.videos.R;
 
+{
+  "adex_ad_show": "no",
+  "adex_interval": 35000,
+  "adex_app_open": "/22387492205,22868405240/com.simple.gallery.photos.videos.AppOpen0.1675667153",
+  "adex_banner": "/22387492205,22868405240/com.simple.gallery.photos.videos.Banner0.1675667101",
+  "adex_interstitial": "/22387492205,22868405240/com.simple.gallery.photos.videos.Interstitial0.1675667129",
+  "adex_native": "/22387492205,22868405240/com.simple.gallery.photos.videos.Native0.1675667191",
+  "applovin_ad_show": "yes",
+  "applovin_banner": "b4cdb3c7fc02c305",
+  "applovin_interstitial": "55a122766634b628",
+  "applovin_native": "572d482aadc81b78",
+  "applovin_interval": 60000,
+  "fb_ad_show": "no",
+  "fb_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+  "fb_interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "fb_native": "CAROUSEL_IMG_SQUARE_LINK#YOUR_PLACEMENT_ID",
+  "fb_interval": 35000,
+  "adpumb_ad_show": "no",
+  "adpumb_interval": 35,
+  "adpumb_app_open": "app_open",
+  "adpumb_banner": "banner",
+  "adpumb_interstitial": "interstitial",
+  "adpumb_native": "native",
+  "adpumb_banner_interval": 20
+}
+
 public class AppLovinAds {
     private static final String TAG = "AppLovin_Interstitial";
     public MaxInterstitialAd maxInterstitialAd;
