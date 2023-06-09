@@ -1,6 +1,6 @@
 {
   "adex_ad_show": "yes",
-  "adex_interval": 60000,
+  "adex_interval": 35000,
   "adex_app_open": "/22925651469/Mix2ad_app_simple_Gallery_openapp",
   "adex_banner": "/22925651469/Mix2ad_app_simple_Gallery_banner",
   "adex_interstitial": "/22925651469/Mix2ad_app_simple_Gallery_interstitial",
