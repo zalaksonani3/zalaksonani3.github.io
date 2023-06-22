@@ -1,13 +1,13 @@
 {
-  "googleInterstitialInterval": 10000,
-  "applovinInterstitialInterval": 10000,
-  "googleAppOpenInterval": 10000,
+  "googleInterstitialInterval": 60000,
+  "applovinInterstitialInterval": 60000,
+  "googleAppOpenInterval": 60000,
   "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": false,
+  "isApplovinNativeBannerOn": true,
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": true,
   "isGoogleAppOpenOn": true,
@@ -17,5 +17,5 @@
   "applovinBannerId": "5e558020cdb2db0b",
   "googleNativeId": "/6499/example/native",
   "applovinNativeId": "572d482aadc81b78",
-  "googleAppOpenId": "/6499/example/app-open"
+  "googleAppOpenId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/appopen"
 }
