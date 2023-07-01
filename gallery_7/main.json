@@ -2,7 +2,7 @@
   "googleInterstitialInterval": 60000,
   "applovinInterstitialInterval": 60000,
   "googleAppOpenInterval": 30000,
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
