@@ -20,14 +20,14 @@
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "/6499/example/interstitial",
-  "googleBannerId": "/6499/example/banner",
-  "googleNativeId": "/6499/example/native",
-  "googleAppOpenId": "/6499/example/app-open",
+  "googleInterstitialId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_Interstitial_320x480",
+  "googleBannerId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_Banner_320x50",
+  "googleNativeId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_Native_320x250",
+  "googleAppOpenId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_AppOpen_320x480",
 
   "applovinInterstitialId": "55a122766634b628",
   "applovinBannerId": "5e558020cdb2db0b",
   "applovinNativeId": "572d482aadc81b78",
 
-  "ironSource_app_key": "18a9ff9e5",
+  "ironSourceAppKey": "18a9ff9e5",
 }
