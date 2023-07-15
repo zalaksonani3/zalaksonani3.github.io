@@ -7,7 +7,7 @@
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": false,
+  "isApplovinNativeBannerOn": true,
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
   "isGoogleAppOpenOn": true,
