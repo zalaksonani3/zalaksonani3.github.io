@@ -11,11 +11,11 @@
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
   "isGoogleAppOpenOn": true,
-  "googleInterstitialId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_Interstitial_320x480",
+  "googleInterstitialId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/interstitialinapp",
   "applovinInterstitialId": "55a122766634b628",
-  "googleBannerId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_Banner_320x50",
+  "googleBannerId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/bannerinapp",
   "applovinBannerId": "5e558020cdb2db0b",
   "googleNativeId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/nativeinapp",
   "applovinNativeId": "572d482aadc81b78",
-  "googleAppOpenId": "/211182487/ca-mb-app-pub-2726428685015992/com.simple.gallery.photos.videos_AppOpen_320x480"
+  "googleAppOpenId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/appopen"
 }
