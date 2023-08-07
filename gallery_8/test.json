@@ -3,23 +3,23 @@
   "googleAppOpenInterval": 30000,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": false,
-  "isIronSourceInterstitialOn": false,
+  "isApplovinInterstitialOn": true,
+  "isIronSourceInterstitialOn": true,
   "isMetaInterstitialOn": true,
 
   "isGoogleNativeOn": true,
-  "isApplovinNativeOn": false,
-  "isIronSourceNativeOn": false,
+  "isApplovinNativeOn": true,
+  "isIronSourceNativeOn": true,
   "isMetaNativeOn": true,
 
   "isGoogleNativeBannerOn": true,
-  "isApplovinNativeBannerOn": false,
-  "isIronSourceNativeBannerOn": false,
-  "isMetaNativeBannerOn": false,
+  "isApplovinNativeBannerOn": true,
+  "isIronSourceNativeBannerOn": true,
+  "isMetaNativeBannerOn": true,
 
   "isGoogleBannerOn": true,
-  "isApplovinBannerOn": false,
-  "isIronSourceBannerOn": false,
+  "isApplovinBannerOn": true,
+  "isIronSourceBannerOn": true,
   "isMetaBannerOn": true,
 
   "isGoogleAppOpenOn": true,
