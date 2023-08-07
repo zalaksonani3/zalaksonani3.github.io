@@ -4,30 +4,38 @@
 
   "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": false,
-  "isIronSourceInterstitialOn": true,
+  "isIronSourceInterstitialOn": false,
+  "isMetaInterstitialOn": true,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": true,
-  "isIronSourceNativeOn": true,
+  "isApplovinNativeOn": false,
+  "isIronSourceNativeOn": false,
+  "isMetaNativeOn": true,
 
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": true,
-  "isIronSourceNativeBannerOn": true,
+  "isApplovinNativeBannerOn": false,
+  "isIronSourceNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
+  "isMetaBannerOn": true,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
 
   "googleInterstitialId": "/6499/example/interstitial",
   "googleBannerId": "/6499/example/banner",
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
 
-  "applovinInterstitialId": "55a122766634b628",
-  "applovinBannerId": "5e558020cdb2db0b",
-  "applovinNativeId": "572d482aadc81b78",
+  "applovinInterstitialId": "00f15832ef24f8c5",
+  "applovinBannerId": "1ad6d04cd284fca1",
+  "applovinNativeId": "e366888c9946744d",
 
-  "ironSourceAppKey": "1a57929a5"
+  "ironSourceAppKey": "1a57929ab",
+
+  "metaInterstitialId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
