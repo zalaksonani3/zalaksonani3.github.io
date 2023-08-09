@@ -15,7 +15,7 @@
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
-  "isMetaNativeBannerOn": true,
+  "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
