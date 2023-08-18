@@ -3,9 +3,9 @@
   "googleAppOpenInterval": 30000,
 
   "isGoogleInterstitialOn": false,
-  "isApplovinInterstitialOn": false,
+  "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": false,
-  "isMetaInterstitialOn": true,
+  "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
