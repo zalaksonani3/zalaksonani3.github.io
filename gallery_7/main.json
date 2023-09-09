@@ -10,7 +10,7 @@
   "isApplovinNativeBannerOn": true,
   "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
   "googleInterstitialId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/interstitialinapp",
   "applovinInterstitialId": "55a122766634b628",
   "googleBannerId": "/7047,22946396544/apl/mix2ad3223/simple.gallery.photos.videos/bannerinapp",
