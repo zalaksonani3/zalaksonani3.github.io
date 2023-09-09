@@ -27,7 +27,7 @@
   "googleInterstitialId": "/6499/example/interstitial",
   "googleBannerId": "/6499/example/banner",
   "googleNativeId": "/6499/example/native",
-  "googleAppOpenId": "/6499/example/app-open",
+  "googleAppOpenId": "ca-app-pub-4261787134652643/9590137336",
 
   "applovinInterstitialId": "55a122766634b628",
   "applovinBannerId": "5e558020cdb2db0b",
