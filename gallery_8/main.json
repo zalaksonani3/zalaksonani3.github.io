@@ -8,12 +8,12 @@
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": true,
+  "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": true,
+  "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
