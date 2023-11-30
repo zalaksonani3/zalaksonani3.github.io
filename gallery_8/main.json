@@ -13,16 +13,16 @@
   "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": false,
+  "isApplovinNativeBannerOn": true,
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": true,
+  "isGoogleBannerOn": false,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": false,
 
   "googleInterstitialId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Interstitial",
   "googleBannerId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Banner",
