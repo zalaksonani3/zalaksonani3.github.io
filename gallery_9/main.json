@@ -1,14 +1,14 @@
 {
-  "interstitialInterval": 45000,
-  "googleAppOpenInterval": 45000,
+  "interstitialInterval": 120000,
+  "googleAppOpenInterval": 120000,
 
-  "isGoogleInterstitialOn": false,
-  "isApplovinInterstitialOn": true,
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": false,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
-  "isGoogleNativeOn": false,
-  "isApplovinNativeOn": true,
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": false,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
