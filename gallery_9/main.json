@@ -13,11 +13,11 @@
   "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
-  "isApplovinNativeBannerOn": true,
+  "isApplovinNativeBannerOn": false,
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": false,
+  "isGoogleBannerOn": true,
   "isApplovinBannerOn": false,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
