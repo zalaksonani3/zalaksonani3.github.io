@@ -24,10 +24,10 @@
 
   "isGoogleAppOpenOn": false,
 
-  "googleInterstitialId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Interstitial",
-  "googleBannerId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Banner",
-  "googleNativeId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_Native",
-  "googleAppOpenId": "/21753324030,22830454629/com.simple.gallery.photos.videos1_AppOpen",
+  "googleInterstitialId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Interstitial",
+  "googleBannerId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Banner",
+  "googleNativeId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Native",
+  "googleAppOpenId": "/21753324030,23040943192/com.simple.gallery.photos.videos_AppOpen",
   
   "applovinInterstitialId": "55a122766634b628",
   "applovinBannerId": "5e558020cdb2db0b",
