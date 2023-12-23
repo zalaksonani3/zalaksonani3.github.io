@@ -25,7 +25,7 @@
 
   "isGoogleAppOpenOn": true,
 
-  "googleInterstitialId": "/6499/example/interstitial",
+  "googleInterstitialId": "/6499/example/interstitial1",
   "googleBannerId": "/6499/example/banner",
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
