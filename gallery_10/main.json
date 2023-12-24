@@ -8,8 +8,8 @@
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
-  "isGoogleNativeOn": false,
-  "isApplovinNativeOn": false,
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": true,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
 
