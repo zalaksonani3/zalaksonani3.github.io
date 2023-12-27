@@ -1,0 +1,43 @@
+{
+  "interstitialInterval": 60000,
+  "interstitialRequestCount": 3,
+  "googleAppOpenInterval": 60000,
+  "googleAppOpenRequestCount": 3,
+
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": true,
+  "isIronSourceInterstitialOn": false,
+  "isMetaInterstitialOn": false,
+
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": false,
+  "isIronSourceNativeOn": false,
+  "isMetaNativeOn": false,
+
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+  "isIronSourceNativeBannerOn": false,
+  "isMetaNativeBannerOn": false,
+
+  "isGoogleBannerOn": true,
+  "isApplovinBannerOn": false,
+  "isIronSourceBannerOn": false,
+  "isMetaBannerOn": false,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "/6499/example/interstitial1",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
+
+  "applovinInterstitialId": "55a122766634b628",
+  "applovinBannerId": "5e558020cdb2db0b",
+  "applovinNativeId": "572d482aadc81b78",
+
+  "ironSourceAppKey": "1a57929ab",
+
+  "metaInterstitialId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID"
+}
