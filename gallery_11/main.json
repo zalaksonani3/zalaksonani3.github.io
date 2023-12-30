@@ -9,7 +9,7 @@
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
 
-  "isGoogleNativeOn": false,
+  "isGoogleNativeOn": true,
   "isApplovinNativeOn": true,
   "isIronSourceNativeOn": false,
   "isMetaNativeOn": false,
@@ -24,7 +24,7 @@
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": false,
+  "isGoogleAppOpenOn": true,
 
   "googleInterstitialId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Interstitial",
   "googleBannerId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Banner",
