@@ -3,7 +3,7 @@
   "interstitialRequestCount": 3,
   "googleAppOpenInterval": 60000,
 
-  "isGoogleInterstitialOn": false,
+  "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
