@@ -24,10 +24,10 @@
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": true,
+  "isGoogleAppOpenOn": true,  
 
   "googleInterstitialId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Interstitial",
-  "googleBannerId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Banner",
+  "googleBannerId": "ca-app-pub-4261787134652643/6463364829",
   "googleNativeId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Native",
   "googleAppOpenId": "/21753324030,23040943192/com.simple.gallery.photos.videos_AppOpen",
   
