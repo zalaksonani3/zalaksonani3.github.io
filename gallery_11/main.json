@@ -1,4 +1,4 @@
-{
+ {
   "interstitialInterval": 45000,
   "interstitialRequestCount": 3,
   "googleAppOpenInterval": 60000,
@@ -26,7 +26,7 @@
 
   "isGoogleAppOpenOn": true,  
 
-  "googleInterstitialId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Interstitial",
+  "googleInterstitialId": "ca-app-pub-6460060479768856/7653083482",
   "googleBannerId": "ca-app-pub-6460060479768856/5473078051",
   "googleNativeId": "/21753324030,23040943192/com.simple.gallery.photos.videos_Native",
   "googleAppOpenId": "ca-app-pub-6460060479768856/5352006167",
