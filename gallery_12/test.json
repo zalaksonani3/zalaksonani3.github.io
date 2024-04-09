@@ -37,7 +37,7 @@
 
   "showUpdate": true,
   "forceUpdateOn": false,
-  "updatePercentage": 1,
+  "updatePercentage": 100,
   "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
