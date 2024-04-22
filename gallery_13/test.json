@@ -1,0 +1,46 @@
+{
+  "interstitialInterval": 60000,
+  "interstitialRequestCount": 3,
+  "googleAppOpenInterval": 60000,
+  "googleAppOpenRequestCount": 3,
+
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": true,
+  "isMetaInterstitialOn": true,
+
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": true,
+  "isMetaNativeOn": true,
+
+  "isGoogleNativeBannerOn": true,
+  "isApplovinNativeBannerOn": true,
+  "isMetaNativeBannerOn": true,
+
+  "isGoogleBannerOn": true,
+  "isApplovinBannerOn": true,
+  "isMetaBannerOn": true,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "/6499/example/interstitial",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
+
+  "applovinInterstitialId": "55a122766634b628",
+  "applovinBannerId": "5e558020cdb2db0b",
+  "applovinNativeId": "572d482aadc81b78",
+
+  "metaInterstitialId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+  "showUpdate": false,
+  "forceUpdateOn": false,
+  "updatePercentage": 1,
+  "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
+  "updateLink": "gallery.photogallery.album.editor",
+  "updateBtnTxt": "Install",
+  "updateTitle": "Gallery",
+  "updateDis": "Unlock Your Memories: Explore Our Photo & Video Gallery Today!"
+}
