@@ -4,7 +4,7 @@
   "googleAppOpenInterval": 60000,
   "googleAppOpenRequestCount": 2,
 
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
   "isIronSourceInterstitialOn": false,
   "isMetaInterstitialOn": false,
@@ -19,12 +19,12 @@
   "isIronSourceNativeBannerOn": false,
   "isMetaNativeBannerOn": false,
 
-  "isGoogleBannerOn": true,
+  "isGoogleBannerOn": false,
   "isApplovinBannerOn": true,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": true,  
+  "isGoogleAppOpenOn": false,  
 
   "googleInterstitialId": "ca-app-pub-6460060479768856/7653083482",
   "googleBannerId": "ca-app-pub-6460060479768856/5473078051",
