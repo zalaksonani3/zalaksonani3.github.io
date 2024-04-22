@@ -35,9 +35,9 @@
   "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
   "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-  "showUpdate": true,
+  "showUpdate": false,
   "forceUpdateOn": false,
-  "updatePercentage": 100,
+  "updatePercentage": 1,
   "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
