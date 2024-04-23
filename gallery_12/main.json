@@ -9,7 +9,7 @@
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": false,
+  "isApplovinNativeOn": true,
   "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
@@ -17,7 +17,7 @@
   "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": false,
-  "isApplovinBannerOn": false,
+  "isApplovinBannerOn": true,
   "isMetaBannerOn": false,
 
   "isGoogleAppOpenOn": false,
