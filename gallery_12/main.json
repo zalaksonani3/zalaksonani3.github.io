@@ -5,7 +5,7 @@
   "googleAppOpenRequestCount": 2,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": false,
+  "isApplovinInterstitialOn": true,
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
