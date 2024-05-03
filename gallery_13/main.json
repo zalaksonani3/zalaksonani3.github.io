@@ -5,11 +5,11 @@
   "googleAppOpenRequestCount": 2,
 
   "isGoogleInterstitialOn": true,
-  "isApplovinInterstitialOn": false,
+  "isApplovinInterstitialOn": true,
   "isMetaInterstitialOn": false,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": false,
+  "isApplovinNativeOn": true,
   "isMetaNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
