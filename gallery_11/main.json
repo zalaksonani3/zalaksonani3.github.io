@@ -24,7 +24,7 @@
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": true,  
+  "isGoogleAppOpenOn": false,  
 
   "googleInterstitialId": "ca-app-pub-6460060479768856/5328603201",
   "googleBannerId": "ca-app-pub-6460060479768856/2407427407",
