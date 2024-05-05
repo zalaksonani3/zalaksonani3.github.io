@@ -20,7 +20,7 @@
   "isApplovinBannerOn": true,
   "isMetaBannerOn": false,
 
-  "isGoogleAppOpenOn": false,
+  "isGoogleAppOpenOn": true,
 
   "googleInterstitialId": "ca-app-pub-6460060479768856/5328603201",
   "googleBannerId": "ca-app-pub-6460060479768856/2407427407",
