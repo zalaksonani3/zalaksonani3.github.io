@@ -7,7 +7,7 @@
   "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": true,
 
-  "isGoogleNativeOn": true,
+  "isGoogleNativeOn": false,
   "isApplovinNativeOn": true,
 
   "isGoogleNativeBannerOn": false,
