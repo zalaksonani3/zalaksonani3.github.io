@@ -1,0 +1,38 @@
+{
+  "interstitialInterval": 70000,
+  "interstitialRequestCount": 2,
+  "googleAppOpenInterval": 70000,
+  "googleAppOpenRequestCount": 2,
+
+  "isGoogleInterstitialOn": true,
+  "isApplovinInterstitialOn": true,
+
+  "isGoogleNativeOn": true,
+  "isApplovinNativeOn": true,
+
+  "isGoogleNativeBannerOn": false,
+  "isApplovinNativeBannerOn": false,
+
+  "isGoogleBannerOn": true,
+  "isApplovinBannerOn": true,
+
+  "isGoogleAppOpenOn": true,
+
+  "googleInterstitialId": "/6499/example/interstitial",
+  "googleBannerId": "/6499/example/banner",
+  "googleNativeId": "/6499/example/native",
+  "googleAppOpenId": "/6499/example/app-open",
+
+  "applovinInterstitialId": "55a122766634b628",
+  "applovinBannerId": "5e558020cdb2db0b",
+  "applovinNativeId": "572d482aadc81b78",
+
+  "showUpdate": false,
+  "forceUpdateOn": false,
+  "updatePercentage": 1,
+  "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
+  "updateLink": "gallery.photogallery.album.editor",
+  "updateBtnTxt": "Install",
+  "updateTitle": "Gallery",
+  "updateDis": "Unlock Your Memories: Explore Our Photo & Video Gallery Today!"
+}
