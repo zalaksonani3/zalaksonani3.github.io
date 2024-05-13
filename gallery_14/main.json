@@ -8,13 +8,13 @@
   "isApplovinInterstitialOn": true,
 
   "isGoogleNativeOn": false,
-  "isApplovinNativeOn": true,
+  "isApplovinNativeOn": false,
 
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
 
   "isGoogleBannerOn": false,
-  "isApplovinBannerOn": true,
+  "isApplovinBannerOn": false,
 
   "isGoogleAppOpenOn": false,
 
