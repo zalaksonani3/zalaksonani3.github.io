@@ -13,13 +13,15 @@
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
 
-  "isGoogleBannerOn": true,
+  "isGoogleBanner1On": false,
+  "isGoogleBanner2On": false,
   "isApplovinBannerOn": true,
 
   "isGoogleAppOpenOn": true,
 
   "googleInterstitialId": "/6499/example/interstitial",
-  "googleBannerId": "/6499/example/banner",
+  "googleBannerId1": "ca-app-pub-3940256099942544/9214589741",
+  "googleBannerId2": "ca-app-pub-3940256099942544/6300978111",
   "googleNativeId": "/6499/example/native",
   "googleAppOpenId": "/6499/example/app-open",
 
