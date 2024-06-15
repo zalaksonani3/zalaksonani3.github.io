@@ -4,7 +4,7 @@
   "googleAppOpenInterval": 45000,
   "googleAppOpenRequestCount": 2,
 
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
 
   "isGoogleNativeOn": false,
@@ -13,9 +13,9 @@
   "isGoogleNativeBannerOn": false,
   "isApplovinNativeBannerOn": false,
 
-  "isGoogleBanner1On": true,
-  "isGoogleBanner2On": true,
-  "isApplovinBannerOn": false,
+  "isGoogleBanner1On": false,
+  "isGoogleBanner2On": false,
+  "isApplovinBannerOn": true,
 
   "isGoogleAppOpenOn": false,
 
