@@ -4,7 +4,7 @@
   "googleAppOpenInterval": 70000,
   "googleAppOpenRequestCount": 2,
 
-  "isGoogleInterstitialOn": false,
+  "isGoogleInterstitialOn": true,
   "isApplovinInterstitialOn": true,
   "isMetaInterstitialOn": false,
 
