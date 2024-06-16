@@ -15,7 +15,7 @@
 
   "isGoogleBanner1On": true,
   "isGoogleBanner2On": true,
-  "isApplovinBannerOn": true,
+  "isApplovinBannerOn": false,
 
   "isGoogleAppOpenOn": false,
 
