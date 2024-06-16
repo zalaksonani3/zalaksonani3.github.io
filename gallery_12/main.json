@@ -4,7 +4,7 @@
   "googleAppOpenInterval": 70000,
   "googleAppOpenRequestCount": 2,
 
-  "isGoogleInterstitialOn": true,
+  "isGoogleInterstitialOn": false,
   "isApplovinInterstitialOn": true,
   "isMetaInterstitialOn": false,
 
@@ -38,7 +38,7 @@
   "showUpdate": true,
   "forceUpdateOn": false,
   "updatePercentage": 100,
-  "updateIcon": "https://bytecrew28549.github.io/AdsDemo2/update_icon.png",
+  "updateIcon": "https://zalaksonani3.github.io/IMG_2316.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
   "updateTitle": "Gallery",
