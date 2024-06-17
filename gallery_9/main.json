@@ -1,5 +1,5 @@
 {
-  "interstitialInterval": 60000,
+  "interstitialInterval": 35000,
   "googleAppOpenInterval": 60000,
 
   "isGoogleInterstitialOn": false,
@@ -18,7 +18,7 @@
   "isMetaNativeBannerOn": false,
 
   "isGoogleBannerOn": false,
-  "isApplovinBannerOn": false,
+  "isApplovinBannerOn": true,
   "isIronSourceBannerOn": false,
   "isMetaBannerOn": false,
 
