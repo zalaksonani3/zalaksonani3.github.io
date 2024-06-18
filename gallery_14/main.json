@@ -31,7 +31,7 @@
 
   "showUpdate": true,
   "forceUpdateOn": false,
-  "updatePercentage": 10,
+  "updatePercentage": 15,
   "updateIcon": "https://zalaksonani3.github.io/IMG_2316.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
