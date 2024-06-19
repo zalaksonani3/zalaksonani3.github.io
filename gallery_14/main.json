@@ -29,9 +29,9 @@
   "applovinBannerId": "5e558020cdb2db0b",
   "applovinNativeId": "572d482aadc81b78",
 
-  "showUpdate": false,
+  "showUpdate": true,
   "forceUpdateOn": false,
-  "updatePercentage": 15,
+  "updatePercentage": 100,
   "updateIcon": "https://zalaksonani3.github.io/IMG_2316.png",
   "updateLink": "gallery.photogallery.album.editor",
   "updateBtnTxt": "Install",
