@@ -35,7 +35,7 @@
   "metaBannerId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
   "metaNativeId": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-  "showUpdate": true,
+  "showUpdate": false,
   "forceUpdateOn": false,
   "updatePercentage": 100,
   "updateIcon": "https://zalaksonani3.github.io/IMG_2316.png",
